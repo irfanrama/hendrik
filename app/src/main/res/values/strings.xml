@@ -2,4 +2,5 @@
     <string name="app_name">Hendrik_CP3</string>
     <string1 nama_pemilik="ujian">HENDRIK RUSDIANTO - 04115031 - CP3"</string1>
     <string2 kampus="kampus">univeristas Narotama Surabaya</string2>
+    <string3 kelas="kelas"> A </string3>
 </resources>
